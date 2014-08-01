@@ -29,9 +29,19 @@ A User can change her L Locale and pretty much change the world she proceeds in 
 
 In the world of L, everything is everywhere, spread out and scattered, joined only by our minds.
 
-So Locales, gives us all preceived and readily avalible togetherness to grasp.
+So Locales, gives us all preceived and a readily avalible sense togetherness to grasp.
+
+TODO
+------------
+* Bring the descriptions closer to the ground.
+* Use "cuter" words to describe main topics
+
 
 Contribution
 ------------
 
 Use [Github issues](https://github.com/projectL/Locale/issues) for requests.
+
+Inspiration
+------------
+Politics, Ergonomics, Physics
