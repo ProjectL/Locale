@@ -31,7 +31,7 @@ In the world of L, everything is everywhere, spread out and scattered, joined on
 
 So Locales, gives us all a preceived and readily avalible sense of togetherness to grasp.
 
-In essence, Locale represents the state an L you're in, at any given time.
+In essence, Locale represents the state of an L you're in, at any given time.
 
 JSON representation of Locale state
 
