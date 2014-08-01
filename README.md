@@ -30,3 +30,8 @@ A User can change her L Locale and pretty much change the world she proceeds in 
 In the world of L, everything is everywhere, spread out and scattered, joined only by our minds.
 
 So Locales, gives us all preceived and readily avalible togetherness to grasp.
+
+Contribution
+------------
+
+Use [Github issues](https://github.com/projectL/Locale/issues) for requests.
