@@ -1,6 +1,6 @@
 #Project L
 
-##Locale - an Environmental Object.
+##Locale - Interface Object.
 ======
 
 
