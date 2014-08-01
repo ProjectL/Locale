@@ -1,6 +1,6 @@
 #Project L
 
-##Locale - Interface Object.
+##Locale - Environment State Object.
 ======
 
 
@@ -12,14 +12,14 @@ ensures from new freedom.
   >or territory and whether through laws, norms, power or language."[1] It relates to processes and
   >decisions that seek to define actions, grant power and verify performance."*
 
-In order to communicate with a random L TV in the wild via txt, one must text a phone #.
-That phone # represents a Locale in which that L TV resides.
+In order to interact with an L in the wild you can txt a ph number.
+That phone # represents a Locale in which that L resides in.
 
-Like phone numbers have area codes that associate the number to a region, well
-L objects are associated to a Locale or a Network if you will.
+Just like phone numbers has an area code that associate a random set of numbers to a region, well
+L objects are associated to a Locale or a Network if you will, that has a phone number.
 it's just order.
 
-When a user first starts up her L Remote she's assigned to a region, more than likely one geographically near to her.
+When a user first starts up her L Remote she's assigned to a Locale, more than likely one geographically near to her.
 
 It's just like there are governments in different countries, in different cities, that all pretty much do the same thing but differently based on the local ppl, the local moods, the local cultures, the local environment @ hand.
 
@@ -27,9 +27,30 @@ Well, a Locale is just the same.
 
 A User can change her L Locale and pretty much change the world she proceeds in or get even closer to the world she belives in.
 
-In the world of L, everything is everywhere, spread out and scattered, joined only by our minds.
+In the world of L, everything is everywhere, spread out and scattered, joined only by our minds and actions.
 
-So Locales, gives us all preceived and a readily avalible sense togetherness to grasp.
+So Locales, gives us all a preceived and readily avalible sense of togetherness to grasp.
+
+In essence, Locale represents the state an L you're in, at any given time.
+
+JSON representation of Locale state
+
+```json
+{
+  "locale": {
+    "localeid": "",
+    "major_city": "",
+    "phnumbers": [
+      {"phnumber": "",
+       "count": ""
+      }
+    ],
+    "tv_count": "",
+    "remote_count": "",
+    "scene_count": ""
+    }
+}
+```
 
 TODO
 ------------
