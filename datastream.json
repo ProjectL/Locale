@@ -1,6 +1,14 @@
 {
   "locale": {
     "localeid": "",
-    "regionid:" ""
+    "city": "",
+    "phnumbers": [
+      {"phnumber": "",
+       "count": ""
+      }
+    ],
+    "tv_count": "",
+    "remote_count": "",
+    "scene_count": ""
     }
 }
